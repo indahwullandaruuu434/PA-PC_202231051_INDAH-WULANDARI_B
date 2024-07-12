@@ -1,7 +1,7 @@
 # PA-PC_202231051_INDAH-WULANDARI_B
 ### Deteksi Tepi Pola Objek (⁠・⁠∀⁠・⁠)
 
-Di repository ini, kami mengeksplorasi teknik-teknik untuk mendeteksi tepi pada pola objek dalam gambar.
+Di repository ini, saya mengeksplorasi teknik-teknik untuk mendeteksi tepi pada pola objek dalam gambar.
 
 #### Apa Itu Deteksi Tepi?
 Deteksi tepi adalah teknik penting dalam pengolahan gambar yang membantu mengidentifikasi batas-batas objek dalam sebuah gambar. Dalam proyek ini, kami fokus pada menganalisis bagaimana berbagai algoritma dapat digunakan untuk mengenali tepi pada pola objek yang kompleks.
